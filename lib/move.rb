@@ -16,6 +16,4 @@ end
 def move(board,position,character="X")
   #First lets update the board
   board[position]=character
-  #Then lets deisplay the new board
-  display_board(board)
 end
