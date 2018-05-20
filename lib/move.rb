@@ -10,7 +10,6 @@ end
 #
 def input_to_index(input)
   output=input.to_i-1
-  board[output]=
 end
 
 #
