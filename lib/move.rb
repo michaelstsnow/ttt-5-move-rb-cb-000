@@ -15,5 +15,5 @@ end
 #
 def move(board,position,character="X")
   #First lets update the board
-  board[position]=character
+  board[position]="character
 end
